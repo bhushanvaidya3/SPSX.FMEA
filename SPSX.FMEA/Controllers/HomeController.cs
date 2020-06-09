@@ -15,6 +15,7 @@ namespace SPSX.FMEA.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //Added this comment
             _logger = logger;
         }
 
